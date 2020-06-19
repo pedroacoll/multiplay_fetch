@@ -1,0 +1,1834 @@
+{
+  "#SuperBowl": {
+    "duration": 435,
+    "tweet_volume": 2019339
+  },
+  "#OTGala3": {
+    "duration": 285,
+    "tweet_volume": 422510
+  },
+  "#SBLIV": {
+    "duration": 225,
+    "tweet_volume": 565010
+  },
+  "#5GThatWorks": {
+    "duration": 435,
+    "tweet_volume": 178920
+  },
+  "Mahomes": {
+    "duration": 330,
+    "tweet_volume": 537643
+  },
+  "#GoNiners": {
+    "duration": 180,
+    "tweet_volume": 64559
+  },
+  "Scocco": {
+    "duration": 105,
+    "tweet_volume": 53802
+  },
+  "National Anthem": {
+    "duration": 60,
+    "tweet_volume": 96897
+  },
+  "Jimmy G": {
+    "duration": 435,
+    "tweet_volume": 124072
+  },
+  "Maialen": {
+    "duration": 90,
+    "tweet_volume": 28043
+  },
+  "\u3068\u3057\u307e\u3048\u3093": {
+    "duration": 165,
+    "tweet_volume": 32393
+  },
+  "Andy Reid": {
+    "duration": 540,
+    "tweet_volume": 232156
+  },
+  "Kansas City": {
+    "duration": 390,
+    "tweet_volume": 388847
+  },
+  "Shakira": {
+    "duration": 330,
+    "tweet_volume": 2752161
+  },
+  "Faust\u00e3o": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "Sherman": {
+    "duration": 75,
+    "tweet_volume": 18658
+  },
+  "State Farm": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "Calvin Harris": {
+    "duration": 45,
+    "tweet_volume": 22470
+  },
+  "Pat Tillman": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "Ansu Fati": {
+    "duration": 30,
+    "tweet_volume": 42238
+  },
+  "John Kerry": {
+    "duration": 30,
+    "tweet_volume": 31932
+  },
+  "Nick Bosa": {
+    "duration": 285,
+    "tweet_volume": 178945
+  },
+  "Bruno Silva": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "Edilson": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "San Fran": {
+    "duration": 210,
+    "tweet_volume": 14798
+  },
+  "Deebo Samuel": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "America the Beautiful": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Robbie Gould": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "Garoppolo": {
+    "duration": 390,
+    "tweet_volume": 52661
+  },
+  "\u6ecb\u8cc0\u770c\u6c11": {
+    "duration": 15,
+    "tweet_volume": 13608
+  },
+  "Alice Johnson": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Travis Kelce": {
+    "duration": 30,
+    "tweet_volume": 13897
+  },
+  "#FranksSweepstakes": {
+    "duration": 315,
+    "tweet_volume": 106981
+  },
+  "#49ers": {
+    "duration": 195,
+    "tweet_volume": 74857
+  },
+  "#BAFTAs": {
+    "duration": 75,
+    "tweet_volume": 89863
+  },
+  "#MrPeanut": {
+    "duration": 180,
+    "tweet_volume": 31987
+  },
+  "#EgoChallenge": {
+    "duration": 90,
+    "tweet_volume": 135347
+  },
+  "#JacksTinyTacos": {
+    "duration": 180,
+    "tweet_volume": 34551
+  },
+  "#YangUnitesAmerica": {
+    "duration": 60,
+    "tweet_volume": 60988
+  },
+  "#TdelDescuentoGala4": {
+    "duration": 75,
+    "tweet_volume": 42002
+  },
+  "#noneladurso": {
+    "duration": 30,
+    "tweet_volume": 11389
+  },
+  "#FCGBOM": {
+    "duration": 15,
+    "tweet_volume": 29604
+  },
+  "#PuppyBowlXVI": {
+    "duration": 30,
+    "tweet_volume": 23514
+  },
+  "#HutHutSweeps": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#Mulan": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#TakeItToTheHouseKid": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#ranSB54": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#bbcnfl": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#LosCruzados": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#DingDong": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Tom Brady": {
+    "duration": 240,
+    "tweet_volume": 96107
+  },
+  "Jason Momoa": {
+    "duration": 135,
+    "tweet_volume": 16558
+  },
+  "The Rock": {
+    "duration": 75,
+    "tweet_volume": 23316
+  },
+  "Rocket Mortgage": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "Flavio": {
+    "duration": 15,
+    "tweet_volume": 53313
+  },
+  "Breeland": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "Mountain Dew": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#BlackWidow": {
+    "duration": 150,
+    "tweet_volume": 56227
+  },
+  "#MakeSpaceForWomen": {
+    "duration": 330,
+    "tweet_volume": 96782
+  },
+  "Joe Buck": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "MC Hammer": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "Hyundai": {
+    "duration": 30,
+    "tweet_volume": 15488
+  },
+  "Snickers": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Pats": {
+    "duration": 15,
+    "tweet_volume": 25392
+  },
+  "#HalftimeShow": {
+    "duration": 45,
+    "tweet_volume": 338689
+  },
+  "#SanFrancisco49ers": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#CheesyWithAKick": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#babynut": {
+    "duration": 285,
+    "tweet_volume": 99496
+  },
+  "Loretta": {
+    "duration": 60,
+    "tweet_volume": 14815
+  },
+  "Kyle Shanahan": {
+    "duration": 345,
+    "tweet_volume": 74774
+  },
+  "Patriots": {
+    "duration": 105,
+    "tweet_volume": 160665
+  },
+  "Ric Flair": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#Fantastico": {
+    "duration": 165,
+    "tweet_volume": 13263
+  },
+  "#Olay": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "Kittle": {
+    "duration": 135,
+    "tweet_volume": 28159
+  },
+  "Fox Nation": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "Planters": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Rick and Morty": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#PepsiHalftime": {
+    "duration": 150,
+    "tweet_volume": 363646
+  },
+  "Bad Bunny": {
+    "duration": 375,
+    "tweet_volume": 336344
+  },
+  "Chiefs": {
+    "duration": 375,
+    "tweet_volume": 1490654
+  },
+  "Jennifer Lopez": {
+    "duration": 195,
+    "tweet_volume": 139127
+  },
+  "J Balvin": {
+    "duration": 210,
+    "tweet_volume": 162065
+  },
+  "J-Lo": {
+    "duration": 210,
+    "tweet_volume": 118519
+  },
+  "Hips Don't Lie": {
+    "duration": 60,
+    "tweet_volume": 32321
+  },
+  "She Wolf": {
+    "duration": 60,
+    "tweet_volume": 67963
+  },
+  "Pitbull": {
+    "duration": 60,
+    "tweet_volume": 63371
+  },
+  "Ja Rule": {
+    "duration": 60,
+    "tweet_volume": 10957
+  },
+  "Waiting for Tonight": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#TUMSWORTHYsweepstakes": {
+    "duration": 135,
+    "tweet_volume": 65188
+  },
+  "#LatinoGang": {
+    "duration": 300,
+    "tweet_volume": 59392
+  },
+  "Waka Waka": {
+    "duration": 165,
+    "tweet_volume": 94500
+  },
+  "Puerto Rican": {
+    "duration": 60,
+    "tweet_volume": 22263
+  },
+  "Mr. 305": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "Maroon 5": {
+    "duration": 30,
+    "tweet_volume": 11723
+  },
+  "JLo is 50": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "Bruno Mars": {
+    "duration": 60,
+    "tweet_volume": 16725
+  },
+  "Latina": {
+    "duration": 120,
+    "tweet_volume": 129199
+  },
+  "Baby Nut": {
+    "duration": 90,
+    "tweet_volume": 53147
+  },
+  "Sam Elliot": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "Jenny": {
+    "duration": 15,
+    "tweet_volume": 34359
+  },
+  "Demi Lovato": {
+    "duration": 15,
+    "tweet_volume": 120660
+  },
+  "Marcos D\u00edaz": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#WandaVision": {
+    "duration": 435,
+    "tweet_volume": 64538
+  },
+  "Tyreek Hill": {
+    "duration": 90,
+    "tweet_volume": 18298
+  },
+  "Mr. Peanut": {
+    "duration": 15,
+    "tweet_volume": 37930
+  },
+  "Kelce": {
+    "duration": 60,
+    "tweet_volume": 24407
+  },
+  "#forapretrix": {
+    "duration": 90,
+    "tweet_volume": 75836
+  },
+  "#NFL100": {
+    "duration": 105,
+    "tweet_volume": 58763
+  },
+  "Richard Sherman": {
+    "duration": 300,
+    "tweet_volume": 50686
+  },
+  "Bill Murray": {
+    "duration": 30,
+    "tweet_volume": 59955
+  },
+  "Sammy Watkins": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "Hadson": {
+    "duration": 390,
+    "tweet_volume": 610338
+  },
+  "Damien Williams": {
+    "duration": 225,
+    "tweet_volume": 52093
+  },
+  "Niners": {
+    "duration": 255,
+    "tweet_volume": 143982
+  },
+  "Big Red": {
+    "duration": 165,
+    "tweet_volume": 22433
+  },
+  "Petrix": {
+    "duration": 60,
+    "tweet_volume": 1063991
+  },
+  "Missouri": {
+    "duration": 165,
+    "tweet_volume": 214471
+  },
+  "Honey Badger": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#RedeBBB20": {
+    "duration": 150,
+    "tweet_volume": 28528
+  },
+  "#ARMYSeIcaDay": {
+    "duration": 165,
+    "tweet_volume": 40237
+  },
+  "#TheMaskedSinger": {
+    "duration": 375,
+    "tweet_volume": 48843
+  },
+  "#BBB2O": {
+    "duration": 90,
+    "tweet_volume": 82917
+  },
+  "Brady": {
+    "duration": 75,
+    "tweet_volume": 154538
+  },
+  "The 49ers": {
+    "duration": 150,
+    "tweet_volume": 187555
+  },
+  "#LaAcademiaTop7": {
+    "duration": 255,
+    "tweet_volume": 18538
+  },
+  "#\u9b3c\u306b\u306a\u3063\u305f\u3068\u304d\u306e\u30b9\u30c6\u30fc\u30bf\u30b9": {
+    "duration": 540,
+    "tweet_volume": 28366
+  },
+  "\u6075\u65b9\u5dfb\u304d": {
+    "duration": 720,
+    "tweet_volume": 342416
+  },
+  "Tvitarrrtir A\u00e7\u0131ld\u0131": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#BabyNut": {
+    "duration": 105,
+    "tweet_volume": 102591
+  },
+  "Masked Singer": {
+    "duration": 15,
+    "tweet_volume": 22502
+  },
+  "#\u0130dlip": {
+    "duration": 600,
+    "tweet_volume": 21940
+  },
+  "#PesanUntukMantan": {
+    "duration": 255,
+    "tweet_volume": -1
+  },
+  "Kansas": {
+    "duration": 135,
+    "tweet_volume": 507051
+  },
+  "Prior": {
+    "duration": 105,
+    "tweet_volume": 90525
+  },
+  "#pazartesi": {
+    "duration": 360,
+    "tweet_volume": 24135
+  },
+  "#mondaythoughts": {
+    "duration": 270,
+    "tweet_volume": 20664
+  },
+  "#\u0638\u0627\u0647\u0631\u0647_\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0647_\u0645\u0646\u062a\u0634\u0631\u0647": {
+    "duration": 270,
+    "tweet_volume": 14964
+  },
+  "\u015eehitlerimize Allah'tan": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "Super Bowl Champs": {
+    "duration": 30,
+    "tweet_volume": 40633
+  },
+  "#ARMYSelcaDay": {
+    "duration": 615,
+    "tweet_volume": 275535
+  },
+  "#AwasHoaxVirusCorona": {
+    "duration": 255,
+    "tweet_volume": 20176
+  },
+  "#KJHillusioninThailand": {
+    "duration": 120,
+    "tweet_volume": 32086
+  },
+  "Dear Lagosians": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "\u30d1\u30fc\u30c6\u30a3\u8a3a\u65ad": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#FelizLunes": {
+    "duration": 765,
+    "tweet_volume": 55977
+  },
+  "#WeLoveYouHanbin": {
+    "duration": 270,
+    "tweet_volume": 34194
+  },
+  "#YeniVergiler": {
+    "duration": 270,
+    "tweet_volume": -1
+  },
+  "#\u0627\u0644\u062d\u0628_\u0644\u0645\u0646": {
+    "duration": 390,
+    "tweet_volume": 22486
+  },
+  "#save\u0e19\u0e49\u0e4d\u0e32\u0e2a\u0e34\u0e07\u0e2b\u0e4c": {
+    "duration": 360,
+    "tweet_volume": 60780
+  },
+  "#SuperBowlLIV": {
+    "duration": 15,
+    "tweet_volume": 582718
+  },
+  "tvitarrrtir a\u00e7\u0131ld\u0131": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "\u8056\u5263\u4f1d\u8aac3 ToM": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "Super Bowls": {
+    "duration": 15,
+    "tweet_volume": 72123
+  },
+  "\u4eac\u90fd\u5e9c\u6c11": {
+    "duration": 300,
+    "tweet_volume": -1
+  },
+  "#5gthatworks": {
+    "duration": 15,
+    "tweet_volume": 176416
+  },
+  "#\u0628\u0627\u0641\u064a\u062a\u062a\u0627\u062f\u0648\u0631_\u0631\u0646\u062c_\u0631\u0648\u0641\u0631_\u0628399": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#SevgiliAr\u0131yorum": {
+    "duration": 330,
+    "tweet_volume": -1
+  },
+  "#\u0b92\u0bb0\u0bbf\u0b9c\u0bbf\u0ba9\u0bb2\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0bbf_\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd": {
+    "duration": 135,
+    "tweet_volume": 50280
+  },
+  "\u30b3\u30f3\u30d1\u30b9\u30d7\u30ec\u30a4\u30e4\u30fc": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "Wallpaper WA": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "Eagles": {
+    "duration": 15,
+    "tweet_volume": 79352
+  },
+  "#PotatoCornerTH": {
+    "duration": 315,
+    "tweet_volume": 14072
+  },
+  "#GMATheGiftHulingLunes": {
+    "duration": 165,
+    "tweet_volume": 52642
+  },
+  "#Horikoshi": {
+    "duration": 105,
+    "tweet_volume": 79230
+  },
+  "#\u7bc0\u5206\u306e\u65e5": {
+    "duration": 330,
+    "tweet_volume": 190919
+  },
+  "#\u0e1b\u0e35\u0e42\u0e1b\u0e49\u0e2a\u0e35\u0e42\u0e1b\u0e23\u0e14": {
+    "duration": 45,
+    "tweet_volume": 42227
+  },
+  "#BisaTebakSiapa": {
+    "duration": 195,
+    "tweet_volume": 12693
+  },
+  "#3febbraio": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "#\u0627\u0641\u0636\u0644_\u062d\u0644\u0648\u0644_\u0639\u0642\u0627\u0631\u064a\u0647": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#\u0936\u093e\u0939\u0940\u0928\u092c\u093e\u0917_\u091c\u0940\u0924\u0947\u0917\u093e_\u092e\u094b\u0926\u0940_\u0939\u093e\u0930\u0947\u0917\u093e": {
+    "duration": 75,
+    "tweet_volume": 36435
+  },
+  "#ChiefsKindgom": {
+    "duration": 30,
+    "tweet_volume": 24183
+  },
+  "#OkadaBan": {
+    "duration": 390,
+    "tweet_volume": 60588
+  },
+  "#GFRIENDatCrossroads": {
+    "duration": 45,
+    "tweet_volume": 185163
+  },
+  "#BhootTrailer": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#MARUTA": {
+    "duration": 75,
+    "tweet_volume": 74698
+  },
+  "#3\u015eubatD\u00fcnyaBekarlarG\u00fcn\u00fc": {
+    "duration": 705,
+    "tweet_volume": -1
+  },
+  "#SB19onAweSAMSUNGCon": {
+    "duration": 420,
+    "tweet_volume": 176898
+  },
+  "#IWontLeaveWonho": {
+    "duration": 30,
+    "tweet_volume": 16357
+  },
+  "#Baaghi3": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "Yuta": {
+    "duration": 195,
+    "tweet_volume": 80224
+  },
+  "Patrick Mahomes": {
+    "duration": 30,
+    "tweet_volume": 179075
+  },
+  "The Chiefs": {
+    "duration": 15,
+    "tweet_volume": 449096
+  },
+  "\u60a0\u592a\u304f\u3093": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#GFRIENDhasARRIVED": {
+    "duration": 480,
+    "tweet_volume": 188995
+  },
+  "#\u7121\u9650\u5927": {
+    "duration": 255,
+    "tweet_volume": 44550
+  },
+  "#NatSpill": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "gronk": {
+    "duration": 15,
+    "tweet_volume": 14202
+  },
+  "#\u3042\u306a\u305f\u306e\u90fd\u9053\u5e9c\u770c\u3092\u3042\u3066\u3084\u30fc\u3059": {
+    "duration": 405,
+    "tweet_volume": 14484
+  },
+  "#CenturyTunaSuperbods2020": {
+    "duration": 120,
+    "tweet_volume": 18258
+  },
+  "\u8c46\u307e\u304d": {
+    "duration": 225,
+    "tweet_volume": 289805
+  },
+  "#TokopediaxBTS": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#MAFSAU": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#SurvivorAU": {
+    "duration": 210,
+    "tweet_volume": -1
+  },
+  "#\u0627\u0644\u0646\u0635\u0631_\u0639\u0645\u064a\u062f_\u0627\u0644\u0627\u0646\u062f\u064a\u0647": {
+    "duration": 285,
+    "tweet_volume": 12484
+  },
+  "#RightChoiceSid": {
+    "duration": 690,
+    "tweet_volume": 1297174
+  },
+  "#AskAMan": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "\u015fehitlerimize allah'tan": {
+    "duration": 15,
+    "tweet_volume": 13881
+  },
+  "#TokopediaXBTS": {
+    "duration": 90,
+    "tweet_volume": 10280
+  },
+  "#EVERGLOW_DUN_DUN": {
+    "duration": 495,
+    "tweet_volume": 114953
+  },
+  "#EGOParty": {
+    "duration": 450,
+    "tweet_volume": 30720
+  },
+  "#\u4eac\u90fd\u306e\u96e3\u8aad\u5730\u540d\u30af\u30a4\u30ba": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#\u0936\u093e\u0939\u0940\u0928_\u092c\u093e\u0917_\u0939\u093e\u0930\u0947\u0917\u093e_\u0926\u0947\u0936_\u091c\u093f\u0924\u0947\u0902\u0917\u093e": {
+    "duration": 210,
+    "tweet_volume": 31370
+  },
+  "#\u0627\u0644\u0641\u064a\u0632\u064a\u0627_20\u0639\u0627\u0645_\u0634\u062d_\u0627\u062d\u062a\u064a\u0627\u062c": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#\u062d\u0627\u0631\u0628\u0648\u0627_\u0643\u0648\u0631\u0648\u0646\u0627_\u0628\u0627\u0644\u0645\u0648\u0647\u0644\u0627\u062a12": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#NAW2020": {
+    "duration": 330,
+    "tweet_volume": -1
+  },
+  "#OTDirecto3F": {
+    "duration": 735,
+    "tweet_volume": 135250
+  },
+  "\uc5d0\ubc84\uae00\ub85c\uc6b0": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "\u30d5\u30fc\u3061\u3083\u3093": {
+    "duration": 345,
+    "tweet_volume": 18781
+  },
+  "Rusya": {
+    "duration": 15,
+    "tweet_volume": 28210
+  },
+  "To The Stage": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#\u30db\u30edARK\u5ec3\u4eba\u52e2": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#NationalSickieDay": {
+    "duration": 150,
+    "tweet_volume": -1
+  },
+  "\u897f\u5357\u897f": {
+    "duration": 240,
+    "tweet_volume": 105772
+  },
+  "\u5dfb\u304d\u5bff\u53f8": {
+    "duration": 210,
+    "tweet_volume": 26887
+  },
+  "\u5b87\u5d0e\u3061\u3083\u3093\u30a2\u30cb\u30e1\u5316": {
+    "duration": 90,
+    "tweet_volume": 28993
+  },
+  "#MAFS": {
+    "duration": 150,
+    "tweet_volume": -1
+  },
+  "#\u0633\u0639\u0648\u062f_\u0627\u0644\u0646\u0641\u064a\u0639\u064a_\u0635\u0648\u062a\u0646\u0627_\u0627\u0644\u062d\u0642\u064a\u0642\u064a1": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#HalftimeShow2020": {
+    "duration": 675,
+    "tweet_volume": 27220
+  },
+  "#\u0627\u0644\u0633\u0631\u0648\u0631_\u0648\u0627\u0644\u0633\u0639\u0627\u062f\u0647": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#APOLOGIZE_HORIKOSHI": {
+    "duration": 225,
+    "tweet_volume": 123275
+  },
+  "#ChildrensMentalHealthWeek": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "Suriye": {
+    "duration": 90,
+    "tweet_volume": 64220
+  },
+  "\u592a\u5dfb\u304d": {
+    "duration": 135,
+    "tweet_volume": 17457
+  },
+  "#\u7bc0\u5206\u3082\u30c8\u30ec\u30f3\u30c9\u306b\u306a\u308atiger": {
+    "duration": 195,
+    "tweet_volume": -1
+  },
+  "#\u0627\u0628\u0644\u0643\u0634\u0646_\u0645\u0633\u064a\u0627\u0631\u0643\u0645_\u0644\u0644\u0632\u0648\u0627\u062c": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#4corners": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#MondayMotivation": {
+    "duration": 420,
+    "tweet_volume": 130212
+  },
+  "\u30e9\u30f3\u30b9\u30ed\u30c3\u30c8": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "\u3046\u3061\u306e3\u59c9\u59b9": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#\u6709\u5409\u30bc\u30df": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#CenturyTunaSuperBods2020": {
+    "duration": 15,
+    "tweet_volume": 17339
+  },
+  "#\u5e30\u308c\u30de\u30f3\u30c7\u30fc": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#\u8056\u52633ToM\u30d1\u30fc\u30c6\u30a3\u8a3a\u65ad": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "\u843d\u82b1\u751f": {
+    "duration": 270,
+    "tweet_volume": 28737
+  },
+  "\u30df\u30eb\u30e1\u30fc\u30af": {
+    "duration": 150,
+    "tweet_volume": -1
+  },
+  "#qanda": {
+    "duration": 270,
+    "tweet_volume": 22906
+  },
+  "\u6b73\u306e\u6570": {
+    "duration": 180,
+    "tweet_volume": 15086
+  },
+  "#Oneit_want_new_X1": {
+    "duration": 405,
+    "tweet_volume": 532747
+  },
+  "#\u5e30\u308c\u30de\u30f3\u30c7\u30fc\u898b\u3063\u3051\u968a": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "G Eazy": {
+    "duration": 720,
+    "tweet_volume": 464148
+  },
+  "#\u95a2\u897f\u5f01\u30af\u30a4\u30ba": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#PetraCostaLiar": {
+    "duration": 510,
+    "tweet_volume": 63017
+  },
+  "Andrew Constance": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#Q\u3055\u307e": {
+    "duration": 225,
+    "tweet_volume": 29577
+  },
+  "#\uc6d0\ud558\ub294_\uba64\ubc84\ub4e4\ub85c_\uc5d1\uc2a4\uc6d0\uc0c8\uadf8\ub8f9": {
+    "duration": 75,
+    "tweet_volume": 529292
+  },
+  "#\u3042\u306a\u305f\u3092GPU\u306b\u4f8b\u3048\u308b\u3068": {
+    "duration": 450,
+    "tweet_volume": -1
+  },
+  "#\u20ddJINYOUNG": {
+    "duration": 300,
+    "tweet_volume": 38592
+  },
+  "#Ayalaan": {
+    "duration": 135,
+    "tweet_volume": 22899
+  },
+  "#BUMNFarmasiIndonesia": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "\u5730\u7403\u4eba\u306e\u6210\u4eba\u306e\u7652\u3057\u7cfb\u80fd\u529b": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#TharnTypeOurFinalLove": {
+    "duration": 480,
+    "tweet_volume": 226872
+  },
+  "\u30db\u30e2\u30c1\u30e7\u30b3": {
+    "duration": 300,
+    "tweet_volume": 15897
+  },
+  "#BuenLunes": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#\u751f\u3057\u306e\u3042\u308a\u3059": {
+    "duration": 105,
+    "tweet_volume": 19225
+  },
+  "#\u65e5\u7523\u306e\u65e5": {
+    "duration": 180,
+    "tweet_volume": -1
+  },
+  "#QuizKnock": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "\u5800\u8d8a\u5148\u751f": {
+    "duration": 210,
+    "tweet_volume": 25792
+  },
+  "#sb19onawesamsungcon": {
+    "duration": 15,
+    "tweet_volume": 148016
+  },
+  "#\u7d76\u5bfe\u96f6\u5ea6": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#\u30d2\u30d7\u30e9\u30b8": {
+    "duration": 135,
+    "tweet_volume": 18816
+  },
+  "#\u3042\u306a\u305f\u306e\u7652\u3057\u7cfb\u80fd\u529b\u3092\u8a08\u6e2c": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#\u3042\u306a\u305f\u3092\u8868\u73fe\u3059\u308b\u5bff\u53f8\u30bf\u30a4\u30d7\u8a3a\u65ad": {
+    "duration": 210,
+    "tweet_volume": -1
+  },
+  "#3Feb": {
+    "duration": 315,
+    "tweet_volume": 47730
+  },
+  "#TrumpIsAnIdiot": {
+    "duration": 630,
+    "tweet_volume": 72869
+  },
+  "\u5bff\u53f8\u30bf\u30a4\u30d7\u8a3a\u65ad": {
+    "duration": 285,
+    "tweet_volume": -1
+  },
+  "#RealTalkWithYou": {
+    "duration": 105,
+    "tweet_volume": 92748
+  },
+  "#ForaBocaRosa": {
+    "duration": 585,
+    "tweet_volume": 111108
+  },
+  "#SuperJuniorxhello82": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#\u3057\u3083\u3079\u304f\u308a007": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#apologize_horikoshi": {
+    "duration": 15,
+    "tweet_volume": 121762
+  },
+  "#SiMeAtracanYo": {
+    "duration": 255,
+    "tweet_volume": -1
+  },
+  "#\u5fa9\u8208\u306b\u5411\u3051\u3066\u624b\u3092\u7e4b\u3054\u3046": {
+    "duration": 90,
+    "tweet_volume": 23525
+  },
+  "#hello82": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "\u9f3b\u304b\u3058\u30ad\u30b9": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "\uc9c4\uc800\ub2d8": {
+    "duration": 270,
+    "tweet_volume": -1
+  },
+  "#\u20ddMARKTUAN": {
+    "duration": 45,
+    "tweet_volume": 17309
+  },
+  "#\u30b0\u30ec\u30fc\u30c6\u30eb\u306e\u304b\u307e\u3069": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#ARSD": {
+    "duration": 105,
+    "tweet_volume": 245417
+  },
+  "#\u6075\u65b9\u5dfb": {
+    "duration": 15,
+    "tweet_volume": 29482
+  },
+  "#\u20ddBamBam": {
+    "duration": 15,
+    "tweet_volume": 16913
+  },
+  "#\u0641\u0631\u062c\u062a_\u0645\u0639_\u0627\u0644\u0631\u0627\u0648\u064a_\u062f\u062e\u064a\u064419": {
+    "duration": 45,
+    "tweet_volume": 11294
+  },
+  "#\u0630\u0643\u0631\u064a\u0627\u062a_\u0627\u0648\u0644\u064a_\u0627\u0628\u062a\u062f\u0627\u064a\u064a": {
+    "duration": 390,
+    "tweet_volume": 18019
+  },
+  "\uc591\uc7a5\ubcf8": {
+    "duration": 45,
+    "tweet_volume": 12480
+  },
+  "#AskRVP": {
+    "duration": 255,
+    "tweet_volume": -1
+  },
+  "#\u57fc\u7389\u306e\u96e3\u8aad\u99c5\u540d\u30af\u30a4\u30ba": {
+    "duration": 255,
+    "tweet_volume": -1
+  },
+  "#\u30b9\u30de\u30b9\u30de": {
+    "duration": 15,
+    "tweet_volume": 21037
+  },
+  "#\ubb38\ubcc4\uc758_\ub0af\uc120\ub0a0_\ub4e3\ub294\ub0a0": {
+    "duration": 165,
+    "tweet_volume": 36361
+  },
+  "#SomosFortalezaYDedicaci\u00f3n": {
+    "duration": 135,
+    "tweet_volume": 71142
+  },
+  "#coronaviruse": {
+    "duration": 405,
+    "tweet_volume": 20708
+  },
+  "\uc804\ub3c5\uc2dc": {
+    "duration": 150,
+    "tweet_volume": 130443
+  },
+  "\uac8c\uc774\uace0": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#\u5b89\u5143\u6c5f\u53e3\u3068\u591c\u3042\u305d\u3073": {
+    "duration": 105,
+    "tweet_volume": 33398
+  },
+  "#\u305f\u3044\u3080\u3068\u3093\u306d\u308b": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#IowaCaucuses": {
+    "duration": 300,
+    "tweet_volume": 112334
+  },
+  "#ThingsWeShouldNotCelebrate": {
+    "duration": 180,
+    "tweet_volume": -1
+  },
+  "#\u3042\u306a\u305f\u306e\u30d5\u30a9\u30ed\u30ef\u30fc\u540d\u8a00\u96c6": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#Nissy\u306e\u65e5": {
+    "duration": 210,
+    "tweet_volume": -1
+  },
+  "#SoWhatIsComing": {
+    "duration": 285,
+    "tweet_volume": 19648
+  },
+  "\u5bb6\u65cf\u30c1\u30e7\u30b3": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Nihat \u00d6zdemir": {
+    "duration": 225,
+    "tweet_volume": 14441
+  },
+  "#ShownuBestLeader": {
+    "duration": 450,
+    "tweet_volume": 103711
+  },
+  "#\u5fb3\u5ddd\u307e\u3064\u308a\u751f\u8a95\u796d2020": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#\u9006\u5148\u590f\u76ee\u8a95\u751f\u796d2020": {
+    "duration": 60,
+    "tweet_volume": 11268
+  },
+  "#TWBADonnyPangilinan": {
+    "duration": 45,
+    "tweet_volume": 10190
+  },
+  "Gerald": {
+    "duration": 330,
+    "tweet_volume": 38019
+  },
+  "#\u0645\u062a\u064a_\u0645\u0648\u0639\u062f_\u0627\u0633\u0646\u0627\u0646\u0643_\u0628\u0627\u0644\u062d\u0643\u0648\u0645\u064a": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#\u6708\u66dc\u304b\u3089\u591c\u3075\u304b\u3057": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#OurPromiseToMonstaX": {
+    "duration": 90,
+    "tweet_volume": 20652
+  },
+  "#doya": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#SeninleyizObi": {
+    "duration": 480,
+    "tweet_volume": 33713
+  },
+  "#DIYdaruratklitih": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#andthelocustcame": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#CaucusForYang": {
+    "duration": 390,
+    "tweet_volume": 136520
+  },
+  "#\u0627\u0645\u0646\u064a\u0627\u062a\u0643_\u0633\u0647\u0644\u0647_\u0635\u0639\u0628\u0647_\u0627\u0648_\u0645\u0633\u062a\u062d\u064a\u0644\u0647": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#\u062e\u0627\u0644\u062f_\u0628\u0646_\u0633\u0639\u0648\u062f_\u064a\u062e\u0627\u0644\u0641_\u0648\u0644\u064a_\u0627\u0644\u0639\u0647\u062f": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#cortedeluz": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "Barajas": {
+    "duration": 120,
+    "tweet_volume": 55286
+  },
+  "Air Canada": {
+    "duration": 450,
+    "tweet_volume": 96428
+  },
+  "\u9b3c\u6ec519\u5dfb": {
+    "duration": 30,
+    "tweet_volume": 15748
+  },
+  "Megan": {
+    "duration": 240,
+    "tweet_volume": 363829
+  },
+  "\u6075\u65b9\u5dfb": {
+    "duration": 15,
+    "tweet_volume": 360921
+  },
+  "#\u062e\u0627\u0644\u062f": {
+    "duration": 180,
+    "tweet_volume": -1
+  },
+  "#\u4e43\u6728\u5742\u3069\u3053\u3078": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#\u83c5\u7530\u5c06\u6689ANN": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#AndTheLocustCame": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#SamsunOrjinCafedeyiz": {
+    "duration": 195,
+    "tweet_volume": -1
+  },
+  "SporTV": {
+    "duration": 240,
+    "tweet_volume": -1
+  },
+  "#TBMM\u00fcniversiteli\u0130\u015f\u00e7ileriDuy": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#Sevdan\u0131nEsiri": {
+    "duration": 405,
+    "tweet_volume": 79209
+  },
+  "#AC837": {
+    "duration": 180,
+    "tweet_volume": 17982
+  },
+  "\u57fc\u7389\u770c\u6c11": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#CorteDeLuz": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#Hamilfilm": {
+    "duration": 270,
+    "tweet_volume": 67116
+  },
+  "#ourpromisetomonstax": {
+    "duration": 15,
+    "tweet_volume": 17701
+  },
+  "#\u0630\u0628\u0627\u064a\u062d_\u0628\u0631\u064a\u0647_\u0628\u0627\u0644\u0631\u064a\u0627\u0636": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#tvlicence": {
+    "duration": 195,
+    "tweet_volume": -1
+  },
+  "#DelhiWithModi": {
+    "duration": 45,
+    "tweet_volume": 63250
+  },
+  "M\u00fczi\u011fin Y\u0131ld\u0131zlar\u0131": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Kakamega Primary School": {
+    "duration": 225,
+    "tweet_volume": -1
+  },
+  "\u5984\u60f3\u306e\u4e16\u754c": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#sejoga": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#\u0627\u0644\u0639\u0628\u0642\u0631\u064a_\u0639\u0628\u062f\u0627\u0644\u0627\u0644\u0647_\u0627\u0644\u062c\u062f\u064a\u0639\u064a": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#thingsweshouldnotcelebrate": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Elaz\u0131\u011fda Fatura\u0130ptali": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "m\u00fczi\u011fin y\u0131ld\u0131zlar\u0131": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#cancelada": {
+    "duration": 150,
+    "tweet_volume": 21722
+  },
+  "#SEJOGA": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#Sabr\u0131m\u0131zTa\u015f\u0131yorTFF": {
+    "duration": 315,
+    "tweet_volume": 18538
+  },
+  "#ContratarPorHorasEs": {
+    "duration": 210,
+    "tweet_volume": -1
+  },
+  "#\u0645\u0628\u0627\u062f\u0631\u0647_\u0639\u0641\u0648": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#IndonesianIdol": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#pOkizApexS4": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "8 \u015eEH\u0130T": {
+    "duration": 195,
+    "tweet_volume": -1
+  },
+  "#ZiyaHcmAilemizParampar\u00e7a": {
+    "duration": 120,
+    "tweet_volume": 20464
+  },
+  "#leLIVE": {
+    "duration": 270,
+    "tweet_volume": 18526
+  },
+  "#kenstarr": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#b\u00fcy\u00fcky\u00fczle\u015fme": {
+    "duration": 345,
+    "tweet_volume": 39401
+  },
+  "#\u062a\u0633\u062f\u064a\u062f_\u0642\u0631\u0648\u0636\u0643_\u0627\u0644\u0628\u0646\u0643\u064a\u0647": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Ter\u00f6r\u00fcnTan\u0131m\u0131 EvrenselOlsun": {
+    "duration": 225,
+    "tweet_volume": 35465
+  },
+  "Vic Beasley": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "#WeStandwithObi": {
+    "duration": 15,
+    "tweet_volume": 12440
+  },
+  "#SayNoToRacism": {
+    "duration": 30,
+    "tweet_volume": 13157
+  },
+  "#\u0627\u0645_\u0633\u0639\u064a\u062f_\u062a\u0646\u0627\u0634\u062f\u0643\u0645_\u0627\u0647\u0644_\u0627\u0644\u062e\u064a\u0631": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#KenStarr": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#Aeropuerto": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#\u0637\u0641\u0644\u0646\u0627_\u0648\u0633\u0627\u0645": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#EmreBel\u00f6zo\u011fluYaln\u0131zDe\u011fildir": {
+    "duration": 195,
+    "tweet_volume": -1
+  },
+  "#SayNotoRacism": {
+    "duration": 30,
+    "tweet_volume": 14115
+  },
+  "#\u0627\u0646\u0634\u063a\u0627\u0644\u0643__\u0639\u0646\u0647\u0645__\u0639\u0642\u0648\u0642": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "Weply": {
+    "duration": 60,
+    "tweet_volume": 11433
+  },
+  "#ziyahcmailemizparampar\u00e7a": {
+    "duration": 15,
+    "tweet_volume": 11515
+  },
+  "#\u0627\u0644\u0627\u0627\u0644\u0631\u0633\u0648\u0644_\u0648\u0631\u0645\u0648\u0632_\u0627\u0644\u062f\u0648\u0644\u0647_\u064a\u0627\u0633\u0639\u0627\u062f": {
+    "duration": 270,
+    "tweet_volume": 27964
+  },
+  "#AishaDumpsRuto": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#\u0627\u064a\u0641\u0648\u0646_\u0645\u0639_\u0646\u0648\u0627\u062f\u0631_\u0627\u0644\u0627\u0628\u0644": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#HarekatDevamEtsin": {
+    "duration": 180,
+    "tweet_volume": -1
+  },
+  "#NoJudgement": {
+    "duration": 270,
+    "tweet_volume": 11434
+  },
+  "#A\u015fkYokVicdanYok": {
+    "duration": 60,
+    "tweet_volume": 17342
+  },
+  "#\u0645\u0642\u0637\u0648\u0639\u0647_\u0627\u0644\u0636\u0645\u0627\u064638": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "Pedro Bial": {
+    "duration": 255,
+    "tweet_volume": 16586
+  },
+  "#WhyShowUp": {
+    "duration": 210,
+    "tweet_volume": 18446
+  },
+  "#\u0628\u0627\u0641\u062a\u0645\u0628\u064a_\u0642\u0648\u0645\u064a\u0632": {
+    "duration": 195,
+    "tweet_volume": 10723
+  },
+  "#okadakekeban": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#mondayreport": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "Rush Limbaugh": {
+    "duration": 240,
+    "tweet_volume": 164730
+  },
+  "#DescribeAMovieBadly": {
+    "duration": 240,
+    "tweet_volume": -1
+  },
+  "#Quotidien": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#SampNapoli": {
+    "duration": 240,
+    "tweet_volume": -1
+  },
+  "#OkadaKekeBan": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#COAC2020P15": {
+    "duration": 210,
+    "tweet_volume": -1
+  },
+  "Death Note": {
+    "duration": 225,
+    "tweet_volume": 65178
+  },
+  "#WWESuperCard": {
+    "duration": 225,
+    "tweet_volume": 15989
+  },
+  "#contratarporhorases": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#\u0634\u0627\u0631\u0643_\u0628\u0635\u0648\u0631\u0647_\u0627\u0628\u0648\u0643": {
+    "duration": 225,
+    "tweet_volume": 17469
+  },
+  "#ReaTsotellaMonday": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "The Wonderful 101": {
+    "duration": 210,
+    "tweet_volume": 26732
+  },
+  "Kamiya": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "Quagliarella": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#ELIJAHbyELIJAH": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#MariesAuPremierRegard": {
+    "duration": 210,
+    "tweet_volume": -1
+  },
+  "#universitychallenge": {
+    "duration": 150,
+    "tweet_volume": -1
+  },
+  "#onlyconnect": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "Capela": {
+    "duration": 195,
+    "tweet_volume": 24029
+  },
+  "#ElijahByElijah": {
+    "duration": 180,
+    "tweet_volume": -1
+  },
+  "#herkesbiliyor": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "Kanter": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#Corrie": {
+    "duration": 150,
+    "tweet_volume": -1
+  },
+  "#LeLive": {
+    "duration": 75,
+    "tweet_volume": 13955
+  },
+  "#ALLFOR101": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#FirstDates3F": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#27Kad\u0131n": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "Casa Amor": {
+    "duration": 90,
+    "tweet_volume": 19363
+  },
+  "kamiya": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#YasakElma": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#PrayForRush": {
+    "duration": 105,
+    "tweet_volume": 11079
+  },
+  "#KakamegaStampede": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#BOCHSV": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#LoveIsIand": {
+    "duration": 150,
+    "tweet_volume": 33776
+  },
+  "PETRIX VAI SER EXPULSO": {
+    "duration": 150,
+    "tweet_volume": 54109
+  },
+  "#T\u00fcrkiyeninNabz\u0131": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "Priscilla": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "George Steiner": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#MorancosEH": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "Shaughna": {
+    "duration": 30,
+    "tweet_volume": 26395
+  },
+  "Theis": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Adriana Volpe": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#PepsiEntry": {
+    "duration": 15,
+    "tweet_volume": 12927
+  },
+  "#ColdFeet": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#CrimsTV3": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "#BTSxZachSang": {
+    "duration": 120,
+    "tweet_volume": 50476
+  },
+  "#laguerra\u00e8finita": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "#CIXinUSA": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "#999whatsyouremergency": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#InsideNo9": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "Callum": {
+    "duration": 75,
+    "tweet_volume": 46796
+  },
+  "Jack Chambers": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#ThisLife": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#BadChoicesIveMade": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#bdatrio": {
+    "duration": 90,
+    "tweet_volume": 12759
+  },
+  "Dunkaroos": {
+    "duration": 75,
+    "tweet_volume": 39604
+  },
+  "BARBARA LABRES NA MTV": {
+    "duration": 30,
+    "tweet_volume": 26918
+  },
+  "#\u795e\u5948\u5ddd\u770c\u306e\u96e3\u8aad\u99c5\u540d\u30af\u30a4\u30ba": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#conquis3": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#FORABIANCA": {
+    "duration": 60,
+    "tweet_volume": 15179
+  },
+  "#QuartaRepubblica": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#MengaoAoVivo": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "Jimena Bar\u00f3n": {
+    "duration": 45,
+    "tweet_volume": 15839
+  },
+  "#MaestrosDeLaCostura": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#RESxFLA": {
+    "duration": 45,
+    "tweet_volume": 18296
+  },
+  "#MurgasSC1": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#\u30c6\u30e1\u30a7\u306f\u5929\u4f7f\u304b\u60aa\u9b54\u304b": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "WHO\u4e8b\u52d9\u5c40\u9577": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "\u5f37\u3055\u30e9\u30f3\u30af": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#OTDirecto4F": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#\u063a\u0646\u0627\u062a\u064a": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#VivirSinPermiso4": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Morumbi": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Fausto Vera": {
+    "duration": 15,
+    "tweet_volume": -1
+  }
+}

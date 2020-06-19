@@ -1,0 +1,1958 @@
+{
+  "#OTGala7": {
+    "duration": 300,
+    "tweet_volume": 365360
+  },
+  "#ElClasico": {
+    "duration": 165,
+    "tweet_volume": 498187
+  },
+  "Vinicius": {
+    "duration": 165,
+    "tweet_volume": 260099
+  },
+  "Bar\u00e7a": {
+    "duration": 165,
+    "tweet_volume": 220515
+  },
+  "#\u0631\u064a\u0627\u0644_\u0645\u062f\u0631\u064a\u062f_\u0628\u0631\u0634\u0644\u0648\u0646\u0647": {
+    "duration": 225,
+    "tweet_volume": 118781
+  },
+  "#ThankYouPete": {
+    "duration": 360,
+    "tweet_volume": 47061
+  },
+  "Shake Milton": {
+    "duration": 210,
+    "tweet_volume": 23401
+  },
+  "#7BillboardNo1Album": {
+    "duration": 285,
+    "tweet_volume": 262048
+  },
+  "Ter Stegen": {
+    "duration": 210,
+    "tweet_volume": 41117
+  },
+  "Casemiro": {
+    "duration": 210,
+    "tweet_volume": 70833
+  },
+  "Marcelo": {
+    "duration": 135,
+    "tweet_volume": 95572
+  },
+  "Ernesto Cardenal": {
+    "duration": 315,
+    "tweet_volume": 37409
+  },
+  "Valverde": {
+    "duration": 180,
+    "tweet_volume": 37674
+  },
+  "Piqu\u00e9": {
+    "duration": 120,
+    "tweet_volume": 56032
+  },
+  "Kroos": {
+    "duration": 105,
+    "tweet_volume": 45454
+  },
+  "Carlos Vela": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "Faust\u00e3o": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "Bernab\u00e9u": {
+    "duration": 165,
+    "tweet_volume": 117031
+  },
+  "Setien": {
+    "duration": 30,
+    "tweet_volume": 31323
+  },
+  "De Jong": {
+    "duration": 30,
+    "tweet_volume": 24212
+  },
+  "Landry Jones": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "Semedo": {
+    "duration": 75,
+    "tweet_volume": 22863
+  },
+  "Isco": {
+    "duration": 90,
+    "tweet_volume": 29401
+  },
+  "Courtois": {
+    "duration": 45,
+    "tweet_volume": 39632
+  },
+  "Braithwaite": {
+    "duration": 75,
+    "tweet_volume": 23461
+  },
+  "Luis Henrique": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "Favorite Pokemon": {
+    "duration": 435,
+    "tweet_volume": 11803
+  },
+  "Selma": {
+    "duration": 195,
+    "tweet_volume": 83257
+  },
+  "Bruno Naz\u00e1rio": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "Caio Alexandre": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "Umtiti": {
+    "duration": 30,
+    "tweet_volume": 19779
+  },
+  "#ForaGuilherme": {
+    "duration": 210,
+    "tweet_volume": 272576
+  },
+  "#D\u00fcnyan\u0131nEnG\u00fc\u00e7l\u00fcOrdusuyuz": {
+    "duration": 225,
+    "tweet_volume": 37066
+  },
+  "#\u5b87\u5b99\u6d77\u8cca": {
+    "duration": 180,
+    "tweet_volume": 24792
+  },
+  "#noneladurso": {
+    "duration": 135,
+    "tweet_volume": 18840
+  },
+  "#GeceyeBirS\u00f6zB\u0131rak": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#BolsonaroCorno": {
+    "duration": 165,
+    "tweet_volume": 101731
+  },
+  "#FREETHEESTALLION": {
+    "duration": 180,
+    "tweet_volume": 51891
+  },
+  "#VamosLaU": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#Buttigieg": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#DoctorWho": {
+    "duration": 150,
+    "tweet_volume": 50556
+  },
+  "#Conexi\u00f3nHonduras2": {
+    "duration": 165,
+    "tweet_volume": 32440
+  },
+  "#\u3081\u3056\u307e\u3057\u30c6\u30ec\u30d3": {
+    "duration": 90,
+    "tweet_volume": 53599
+  },
+  "#LAFCvMIA": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#OLASSE": {
+    "duration": 90,
+    "tweet_volume": 45425
+  },
+  "#\u062d\u0646_\u0627\u0644\u063a\u0631\u064a\u0628": {
+    "duration": 120,
+    "tweet_volume": 20117
+  },
+  "#RMABAR": {
+    "duration": 45,
+    "tweet_volume": 20829
+  },
+  "#AutoClub400": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#CrushLGBTQ": {
+    "duration": 45,
+    "tweet_volume": 30463
+  },
+  "#DingDong": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#autoclub400": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#ChiringuitoClasico": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#CuartoMilenio": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#LGBTQpower": {
+    "duration": 15,
+    "tweet_volume": 19666
+  },
+  "#MayorPete": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#ATINfourSB19": {
+    "duration": 825,
+    "tweet_volume": 346176
+  },
+  "#mnwildfirst": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "Anaju": {
+    "duration": 120,
+    "tweet_volume": 58844
+  },
+  "LUCASVIANA NO BBB": {
+    "duration": 210,
+    "tweet_volume": 116377
+  },
+  "#PeteButtigieg": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#Fantastico": {
+    "duration": 435,
+    "tweet_volume": 42194
+  },
+  "#PasapalabraKidsCHV": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#\u015eamda\u0130syan": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#rmabar": {
+    "duration": 15,
+    "tweet_volume": 20933
+  },
+  "#HalaMadrid": {
+    "duration": 135,
+    "tweet_volume": 118006
+  },
+  "Mariano": {
+    "duration": 165,
+    "tweet_volume": 140301
+  },
+  "#Cacerolazo": {
+    "duration": 225,
+    "tweet_volume": 36649
+  },
+  "#reportajest13": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#seninsemangat": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#thankyoupete": {
+    "duration": 150,
+    "tweet_volume": 36281
+  },
+  "#\u0627\u0644\u0643\u0644\u0627\u0633\u064a\u0643\u0648": {
+    "duration": 105,
+    "tweet_volume": 67274
+  },
+  "#HowToMakeMeHappy": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#enacional": {
+    "duration": 345,
+    "tweet_volume": 29152
+  },
+  "Mystery Dungeon": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "\u30a2\u30cb\u30bd\u30f3\u30af\u30a4\u30ba": {
+    "duration": 330,
+    "tweet_volume": -1
+  },
+  "#BakeOffArgentina": {
+    "duration": 285,
+    "tweet_volume": -1
+  },
+  "#YoSoyChv": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#ARMYSelcaDay": {
+    "duration": 945,
+    "tweet_volume": 368675
+  },
+  "#SAFAERACHALLENGE": {
+    "duration": 270,
+    "tweet_volume": 20153
+  },
+  "#lafcvmia": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#\u30a2\u30cb\u30e1\u306e\u53e3\u7656\u691c\u67fb": {
+    "duration": 450,
+    "tweet_volume": -1
+  },
+  "Chasten": {
+    "duration": 105,
+    "tweet_volume": 14262
+  },
+  "\uac00\uc9dc\ud1a1": {
+    "duration": 345,
+    "tweet_volume": 74302
+  },
+  "#issoaglobonaomostra": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "#RHOA": {
+    "duration": 405,
+    "tweet_volume": 30828
+  },
+  "Pete Buttigieg": {
+    "duration": 60,
+    "tweet_volume": 216457
+  },
+  "Drauzio Varella": {
+    "duration": 285,
+    "tweet_volume": 48055
+  },
+  "Dr\u00e1uzio": {
+    "duration": 15,
+    "tweet_volume": 26941
+  },
+  "#90dayfiancebeforethe90days": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#foramarcela": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#SeninSemangat": {
+    "duration": 225,
+    "tweet_volume": -1
+  },
+  "#\u0627\u0644\u0645\u063a\u0631\u062f\u064a\u0646143": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#LALvsNOP": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#RealBarca": {
+    "duration": 30,
+    "tweet_volume": 13439
+  },
+  "#90DayFiance": {
+    "duration": 345,
+    "tweet_volume": 17589
+  },
+  "#BailandoPorUnSue\u00f1o": {
+    "duration": 105,
+    "tweet_volume": 15037
+  },
+  "#PORvMIN": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#Vecinos": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#bbb202O": {
+    "duration": 240,
+    "tweet_volume": 51172
+  },
+  "Kuzma": {
+    "duration": 210,
+    "tweet_volume": 23329
+  },
+  "#TWD10naFOX": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#MNUFC": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#bolsocorno": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#DomingoDeExatl\u00f3n": {
+    "duration": 285,
+    "tweet_volume": 16568
+  },
+  "#BernieInLA": {
+    "duration": 120,
+    "tweet_volume": 13311
+  },
+  "Guilherme": {
+    "duration": 360,
+    "tweet_volume": 778122
+  },
+  "#ForaPyong": {
+    "duration": 45,
+    "tweet_volume": 190548
+  },
+  "#BBB2O20": {
+    "duration": 30,
+    "tweet_volume": 59061
+  },
+  "Tiago Leifert": {
+    "duration": 75,
+    "tweet_volume": 12864
+  },
+  "Essa Gabi": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "Marlo": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#\u30c9\u30e9\u30be\u30f3\u30d3": {
+    "duration": 660,
+    "tweet_volume": 34180
+  },
+  "#YoSoyCHV": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#FicaGizelly": {
+    "duration": 165,
+    "tweet_volume": 25628
+  },
+  "Josh Hart": {
+    "duration": 180,
+    "tweet_volume": -1
+  },
+  "#safaerachallenge": {
+    "duration": 135,
+    "tweet_volume": 17213
+  },
+  "#ShahsofSunset": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "ASSEDIADOR": {
+    "duration": 75,
+    "tweet_volume": 120510
+  },
+  "\u30af\u30ed\u30cb\u30af\u30eb": {
+    "duration": 300,
+    "tweet_volume": 22839
+  },
+  "Doris Burke": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "Ass\u00e9dio": {
+    "duration": 150,
+    "tweet_volume": 74764
+  },
+  "Public Enemy": {
+    "duration": 285,
+    "tweet_volume": 26110
+  },
+  "Gen 4": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#EstadoNacional": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#OTChat7": {
+    "duration": 30,
+    "tweet_volume": 25552
+  },
+  "#SisterWives": {
+    "duration": 150,
+    "tweet_volume": -1
+  },
+  "#SoyLbsbet": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "Giselly": {
+    "duration": 180,
+    "tweet_volume": 10979
+  },
+  "O Gui": {
+    "duration": 15,
+    "tweet_volume": 54402
+  },
+  "#ForaMarcela": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#CPBologna\u0e01\u0e25\u0e21\u0e46\u0e2d\u0e23\u0e48\u0e2d\u0e22\u0e01\u0e25\u0e21\u0e01\u0e25\u0e48\u0e2d\u0e21": {
+    "duration": 210,
+    "tweet_volume": 51619
+  },
+  "#MondayMorning": {
+    "duration": 270,
+    "tweet_volume": -1
+  },
+  "\u98db\u7fd4\u4f53": {
+    "duration": 180,
+    "tweet_volume": 16837
+  },
+  "\u5317\u671d\u9bae": {
+    "duration": 285,
+    "tweet_volume": 57607
+  },
+  "#AdamKutnerPowerPlay": {
+    "duration": 225,
+    "tweet_volume": -1
+  },
+  "#\u30d4\u30ab\u30c1\u30e5\u30a6\u30df\u30e5\u30fc\u30ba\u6b32\u3057\u3044": {
+    "duration": 345,
+    "tweet_volume": 11818
+  },
+  "#yosoychv": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#\u56fd\u4f1a\u4e2d\u7d99": {
+    "duration": 300,
+    "tweet_volume": 59421
+  },
+  "#\u30a8\u30ec\u30d9\u30fc\u30bf\u30fc\u304b\u3089\u8840\u306e\u6d77": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#IndonesiaDiAmbangKebangkrutan": {
+    "duration": 225,
+    "tweet_volume": 24462
+  },
+  "#JusticiaPorMicaela": {
+    "duration": 165,
+    "tweet_volume": 103062
+  },
+  "#4niesRajaKambingHitam": {
+    "duration": 180,
+    "tweet_volume": 11537
+  },
+  "#WWHL": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#lalvsnop": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#LopezEstaCayendo": {
+    "duration": 195,
+    "tweet_volume": 10428
+  },
+  "#\u0645\u0648\u0633\u0645_\u0639\u0633\u0644_\u0639\u0627\u0641\u064a\u0647": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#JO1NYLON": {
+    "duration": 150,
+    "tweet_volume": -1
+  },
+  "Tvitantir A\u00e7\u0131ld\u0131": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#\u0635\u0628\u0627\u062d_\u0627\u0644\u062e\u064a\u0631\u1160": {
+    "duration": 255,
+    "tweet_volume": 24349
+  },
+  "#\u30c9\u30e9\u30de\u30aa\u30a6": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#hshdeactivationparty": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#VekilimSorsun": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "Greenhills": {
+    "duration": 210,
+    "tweet_volume": 12635
+  },
+  "#Coronavirusflorida": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "#\u0641\u0648\u0632_\u0627\u0644\u0639\u062a\u064a\u0628\u064a": {
+    "duration": 225,
+    "tweet_volume": 12615
+  },
+  "#elleidolxpeckpalit": {
+    "duration": 105,
+    "tweet_volume": 39005
+  },
+  "Depok": {
+    "duration": 375,
+    "tweet_volume": 86535
+  },
+  "#PSPK26FirstLookFestival": {
+    "duration": 420,
+    "tweet_volume": 535355
+  },
+  "#\u0e42\u0e04\u0e19\u0e31\u0e19": {
+    "duration": 270,
+    "tweet_volume": 167745
+  },
+  "#\u9b3c\u6ec5\u306e\u5203\u304b\u3089\u8cb4\u65b9\u306b\u9001\u308b\u540d\u8a00": {
+    "duration": 420,
+    "tweet_volume": 11941
+  },
+  "\uae30\uc790\ud68c\uacac": {
+    "duration": 300,
+    "tweet_volume": 50740
+  },
+  "\u65e5\u984d8330\u5186\u4e0a\u9650": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#\u4f11\u6821\u4e2d\u306b\u304a\u3059\u3059\u3081\u306e\u904e\u3054\u3057\u65b9": {
+    "duration": 420,
+    "tweet_volume": 27432
+  },
+  "#\u0642\u0647\u0648\u062a\u064a_\u0627\u0644\u0645\u0641\u0636\u0644\u0647_\u0647\u064a": {
+    "duration": 480,
+    "tweet_volume": 19135
+  },
+  "#BeniDerindenYaralad\u0131": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "\u65b0\u756a\u7d44": {
+    "duration": 15,
+    "tweet_volume": 45106
+  },
+  "#\u30af\u30ea\u30d7\u30c8\u30e9\u30af\u30c85\u5468\u5e74": {
+    "duration": 330,
+    "tweet_volume": -1
+  },
+  "#ForaGui": {
+    "duration": 30,
+    "tweet_volume": 12670
+  },
+  "#BAHARKALKANIHarekat\u0131": {
+    "duration": 675,
+    "tweet_volume": 54802
+  },
+  "\uce5c\ud55c \uc774\uc131\uce5c\uad6c": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "\uc778\ub514\uc5b8 \ub3d9\ubb3c\uc810": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#\u062a\u0645\u0648\u064a\u0644_\u0631\u0647\u0646_\u0634\u0631\u0627\u0621": {
+    "duration": 180,
+    "tweet_volume": -1
+  },
+  "#PeteToBernie": {
+    "duration": 150,
+    "tweet_volume": 20489
+  },
+  "#samdaisyan": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "\ub124\ub35c\ub780\ub4dc": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "\u5168\u984d\u52a9\u6210": {
+    "duration": 180,
+    "tweet_volume": -1
+  },
+  "#AUSvNZ": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "\uc5ec\ub984\ubc29\ud559": {
+    "duration": 390,
+    "tweet_volume": 83774
+  },
+  "#MSSP\u7121\u89b3\u5ba2\u30e9\u30a4\u30d6\u751f\u914d\u4fe1": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#\u0e2b\u0e19\u0e49\u0e32\u0e01\u0e32\u0e01\u0e2d\u0e19\u0e32\u0e21\u0e31\u0e22": {
+    "duration": 15,
+    "tweet_volume": 261281
+  },
+  "#pazartesi": {
+    "duration": 345,
+    "tweet_volume": 37238
+  },
+  "K\u00fc\u00e7\u00fck Burjuvazi Youtube": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "\uac1c\ud559\uc5f0\uae30": {
+    "duration": 225,
+    "tweet_volume": 88743
+  },
+  "\uc7ac\ub9bc\uc608\uc218": {
+    "duration": 195,
+    "tweet_volume": 36100
+  },
+  "\ubc15\uadfc\ud61c \uc2dc\uacc4": {
+    "duration": 300,
+    "tweet_volume": 57465
+  },
+  "#CoronaVirusIndonesia": {
+    "duration": 375,
+    "tweet_volume": 45094
+  },
+  "#domingodeexatl\u00f3n": {
+    "duration": 45,
+    "tweet_volume": 16645
+  },
+  "#2marzo": {
+    "duration": 270,
+    "tweet_volume": -1
+  },
+  "#muslera": {
+    "duration": 360,
+    "tweet_volume": 12628
+  },
+  "#Sooryavanshi": {
+    "duration": 285,
+    "tweet_volume": 56291
+  },
+  "Gabi": {
+    "duration": 15,
+    "tweet_volume": 572070
+  },
+  "\uaca8\uc6b8\ubc29\ud559": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "\u306e\u305e\u307f315\u53f7": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#KeaJobSeeker": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#NirbhayaCase": {
+    "duration": 210,
+    "tweet_volume": 11546
+  },
+  "Pyong": {
+    "duration": 30,
+    "tweet_volume": 813977
+  },
+  "\ud559\uc0ac\uc77c\uc815": {
+    "duration": 120,
+    "tweet_volume": 20570
+  },
+  "\uc911\uac04\uace0\uc0ac": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "\u30bf\u30b8\u30e3\u30c9\u30eb": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#mondaythoughts": {
+    "duration": 150,
+    "tweet_volume": 24486
+  },
+  "#SafaricomForYou": {
+    "duration": 270,
+    "tweet_volume": -1
+  },
+  "#KatrinaKaif": {
+    "duration": 15,
+    "tweet_volume": 22897
+  },
+  "#\u30e9\u30c3\u30af\u30b9\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3": {
+    "duration": 300,
+    "tweet_volume": -1
+  },
+  "#HipmiKawalNikel": {
+    "duration": 195,
+    "tweet_volume": -1
+  },
+  "Valorant": {
+    "duration": 525,
+    "tweet_volume": 38072
+  },
+  "\u5fcd\u8005\u30ab\u30a6\u30f3\u30bf\u30fc": {
+    "duration": 225,
+    "tweet_volume": 18582
+  },
+  "#\u0645\u062c\u0644\u0633_\u0627\u0644\u0637\u064a\u0628\u064a\u0646112": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "#HalisHocaSa\u011fl\u0131k\u00e7\u0131Bekliyor": {
+    "duration": 135,
+    "tweet_volume": 30417
+  },
+  "#Ahobrase3": {
+    "duration": 135,
+    "tweet_volume": 17120
+  },
+  "\u30d7\u30c7\u30e546": {
+    "duration": 195,
+    "tweet_volume": -1
+  },
+  "Devlet Bah\u00e7eli": {
+    "duration": 195,
+    "tweet_volume": 26106
+  },
+  "FF7R\u4f53\u9a13\u7248": {
+    "duration": 15,
+    "tweet_volume": 10980
+  },
+  "#RohitShetty": {
+    "duration": 90,
+    "tweet_volume": 26501
+  },
+  "Marsbahis \u0130F\u015eA": {
+    "duration": 150,
+    "tweet_volume": -1
+  },
+  "FF7\u4f53\u9a13\u7248": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "\uac1c\ud559 2\uc8fc": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#YouGlowDifferentWhen": {
+    "duration": 195,
+    "tweet_volume": -1
+  },
+  "#abc730": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#TemanHidupSehat": {
+    "duration": 240,
+    "tweet_volume": -1
+  },
+  "#\uc624_3\uc6d42\uc77c\uc740_6\uc131\uc7ac_\uc194\ub85c\ub370\ubdd4": {
+    "duration": 120,
+    "tweet_volume": 25710
+  },
+  "#FF7Remake": {
+    "duration": 210,
+    "tweet_volume": -1
+  },
+  "produce46": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "Daniel Sturridge": {
+    "duration": 150,
+    "tweet_volume": -1
+  },
+  "FF7\u30ea\u30e1\u30a4\u30af\u4f53\u9a13\u7248": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#FinalFantasyVIIRemake": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#\u3042\u306a\u305f\u306f\u3053\u308c\u306e\u64ec\u4eba\u5316\u3067\u3059": {
+    "duration": 555,
+    "tweet_volume": 12700
+  },
+  "#O2BlueTicket": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "\u4f53\u9a13\u7248": {
+    "duration": 345,
+    "tweet_volume": 89672
+  },
+  "\u30c8\u30d0\u30ebNo.1": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#\u062a\u0645\u0648\u064a\u0644\u0643_\u0643\u0627\u0634_\u0628\u062f\u0648\u0646_\u0643\u0641\u064a\u0644": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#BuenLunes": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#\u0641\u0648\u0632_": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#\u0e2b\u0e49\u0e2d\u0e07BallroomX\u0e1a\u0e34\u0e4a\u0e01\u0e01\u0e25\u0e31\u0e1f": {
+    "duration": 60,
+    "tweet_volume": 37402
+  },
+  "\u30db\u30c3\u30c8\u30df\u30eb\u30af\u534a\u984d": {
+    "duration": 45,
+    "tweet_volume": 24775
+  },
+  "#SuperLunes": {
+    "duration": 285,
+    "tweet_volume": 28649
+  },
+  "#\u3072\u3068\u308a\u3075\u3093\u3069\u3057": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#A\u011fr\u0131": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#SnZ\u00fcmr\u00fct4BlileriBa\u015flat\u0131n": {
+    "duration": 165,
+    "tweet_volume": 17859
+  },
+  "\u611f\u67d3\u8005\u306e\u7d76\u5bfe\u6570": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "AhmetTedaviye AnnesiyleGitsin": {
+    "duration": 195,
+    "tweet_volume": 31203
+  },
+  "#\u6709\u5409\u30bc\u30df": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#Greece_under_attack": {
+    "duration": 435,
+    "tweet_volume": 53127
+  },
+  "#MondayMotivation": {
+    "duration": 405,
+    "tweet_volume": 136932
+  },
+  "#\u620c\u4ea5\u3068\u30533D": {
+    "duration": 330,
+    "tweet_volume": 68127
+  },
+  "#\u0e2d\u0e32\u0e17\u0e02\u0e2d\u0e42\u0e17\u0e29\u0e1e\u0e35\u0e48\u0e40\u0e15\u0e22\u0e31\u0e07": {
+    "duration": 150,
+    "tweet_volume": 55516
+  },
+  "#ShowUs_OneitsPower": {
+    "duration": 285,
+    "tweet_volume": 344423
+  },
+  "#\u6210\u529f\u306e\u907a\u4f1d\u53f2": {
+    "duration": 255,
+    "tweet_volume": 27064
+  },
+  "#HaechanRadio": {
+    "duration": 180,
+    "tweet_volume": 14394
+  },
+  "#\ub098\uc758_OO\uc19c\uc528": {
+    "duration": 465,
+    "tweet_volume": -1
+  },
+  "#QandA": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "#\u30b9\u30ab\u30c3\u3068\u30b8\u30e3\u30d1\u30f3": {
+    "duration": 165,
+    "tweet_volume": 14683
+  },
+  "#SSAEpilogue": {
+    "duration": 225,
+    "tweet_volume": -1
+  },
+  "#ItsTimeForYOOK": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#NCW2020": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "\u5614\u5410\u30dc\u30a4\u30b9": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#\u653b\u3081\u53d7\u3051\u3069\u3063\u3061\u3060\u301c": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#NusantaraBersholawat": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#VakeelSaab": {
+    "duration": 495,
+    "tweet_volume": 1276185
+  },
+  "\u5e30\u308c\u307e10": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "LiSA\u3055\u3093": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "\u305d\u3089\u308b\u3055\u3093": {
+    "duration": 30,
+    "tweet_volume": 10056
+  },
+  "\u9577\u5c3e\u304f\u3093": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "\u65e5\u672c\u4eba\u306e\u30ec\u30d9\u30eb\u306e\u4f4e\u3055": {
+    "duration": 255,
+    "tweet_volume": 17596
+  },
+  "RE:I AM": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#\u0645\u0639\u0627\u0642_\u064a\u0647\u0632_\u0627\u0644\u0642\u0644\u0648\u0628": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#contigochv": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#ForaGuilheme": {
+    "duration": 150,
+    "tweet_volume": -1
+  },
+  "#\u0628\u062f\u0627\u064a\u0647_\u0646\u0647\u0627\u064a\u0647_\u062a\u0648\u064a\u062a\u0631_\u0645\u0646_\u0627\u0644\u0627\u0631\u0647\u0627\u0628": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "\ub9c8\ub9ac\ud034\ub9ac": {
+    "duration": 165,
+    "tweet_volume": 19093
+  },
+  "#\u30db\u30ed\u82f1\u8a9e\u4f1d\u8a00\u30b2\u30fc\u30e0": {
+    "duration": 195,
+    "tweet_volume": 24870
+  },
+  "#\u7d76\u5bfe\u96f6\u5ea6": {
+    "duration": 180,
+    "tweet_volume": 21063
+  },
+  "#TodayisREND": {
+    "duration": 120,
+    "tweet_volume": 26701
+  },
+  "\u307f\u305f\u3089\u3057\u56e3\u5b50": {
+    "duration": 105,
+    "tweet_volume": 17127
+  },
+  "#10kforRenD": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#\u3044\u306c\u3044\u3069\u3093\u3069\u3093\u3059\u304d\u306b\u306a\u308b": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#\u30c7\u30ec\u30e9\u30b8": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#FelizLunes": {
+    "duration": 435,
+    "tweet_volume": 57316
+  },
+  "#\u30d2\u30d7\u30e9\u30b8": {
+    "duration": 90,
+    "tweet_volume": 15096
+  },
+  "#qanda": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#2Mar": {
+    "duration": 300,
+    "tweet_volume": 50532
+  },
+  "#\u0646\u062d\u0648_\u062c\u064a\u0644_\u0642\u0627\u0631\u064a": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#DOTSPHUrongSulong": {
+    "duration": 30,
+    "tweet_volume": 20370
+  },
+  "\ud53c\uc5d0\ub974": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "\u5b89\u5143\u3055\u3093": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "\u63a2\u5075\u5b66\u5712Q": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#FF7R": {
+    "duration": 570,
+    "tweet_volume": 88854
+  },
+  "#VolvioUC": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#\u0645\u062d\u0645\u062f_\u0645\u0633\u0639\u062f": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#\u9577\u5c3e\u8b19\u675c": {
+    "duration": 15,
+    "tweet_volume": 12526
+  },
+  "\u9ad8\u5ca9\u3055\u3093": {
+    "duration": 105,
+    "tweet_volume": 12699
+  },
+  "\u82e5\u8005\u306e\u305b\u3044": {
+    "duration": 285,
+    "tweet_volume": 42802
+  },
+  "\u4e95\u6ca2\u3055\u3093": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#\u5fa9\u8208\u306b\u5411\u3051\u3066\u624b\u3092\u7e4b\u3054\u3046": {
+    "duration": 105,
+    "tweet_volume": 22987
+  },
+  "#AbortoHoraCero": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#ARSD": {
+    "duration": 75,
+    "tweet_volume": 69877
+  },
+  "#ContigoCHV": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#\u5b89\u5143\u6c5f\u53e3\u3068\u591c\u3042\u305d\u3073": {
+    "duration": 75,
+    "tweet_volume": 31536
+  },
+  "\u9ed2\u9aea\u8d64\u76ee": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "Jack Welch": {
+    "duration": 390,
+    "tweet_volume": 32951
+  },
+  "#CoronaOutbreak": {
+    "duration": 615,
+    "tweet_volume": 144999
+  },
+  "#\u672c\u5f53\u306b\u6b4c\u304c\u3046\u307e\u3044\u5973\u6027\u30a2\u30a4\u30c9\u30eb\u7dcf\u9078\u6319": {
+    "duration": 225,
+    "tweet_volume": -1
+  },
+  "#DeshKeGaddaroKo": {
+    "duration": 180,
+    "tweet_volume": 24781
+  },
+  "#\u062a\u0633\u0646\u064a\u062f\u0647_\u064a\u0646\u0628\u0639": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#\u062c\u0627\u0645\u0639\u0647": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#\u062d\u064a_\u0627\u0644\u0646\u0643\u0627\u0633\u0647": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#BolsonaroChifrudo": {
+    "duration": 195,
+    "tweet_volume": -1
+  },
+  "#\u0647\u0628\u0647_\u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#KKvPZ": {
+    "duration": 375,
+    "tweet_volume": 10551
+  },
+  "#\u0641\u0644\u0627\u062a\u0631_\u0633\u0646\u0627\u0628_\u062849_\u0644\u0644\u062a\u0648\u0627\u0635\u0644h_n_alsh": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#DiplomaciaDePazYRespeto": {
+    "duration": 45,
+    "tweet_volume": 39643
+  },
+  "#LoseYourJobIn4Words": {
+    "duration": 600,
+    "tweet_volume": 11607
+  },
+  "\u30b9\u30d1\u30c1\u30e31000\u4e07": {
+    "duration": 270,
+    "tweet_volume": 20226
+  },
+  "#CrazyF_R_E_S_H_Beat": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#\u0645\u0646_\u062a\u0635\u062f\u0642_\u0645\u0646\u0643\u0645_\u0627\u0644\u064a\u0648\u06451": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#EliteNetflix": {
+    "duration": 105,
+    "tweet_volume": 19505
+  },
+  "#LeyGabriela": {
+    "duration": 285,
+    "tweet_volume": 13519
+  },
+  "#TheBachelorette": {
+    "duration": 210,
+    "tweet_volume": -1
+  },
+  "#\u0634\u0643\u0631\u0627_\u062f\u0646\u0627\u0635\u0631\u062a\u0648\u0641\u064a\u0642_\u0648_\u062f\u0633\u0639\u064a\u062f\u0633\u0627\u0631\u064a": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#ForaGuilhermeAbusivo": {
+    "duration": 570,
+    "tweet_volume": 101280
+  },
+  "#\u0627\u0639\u0644\u0627\u0645_\u062a\u0631\u0643\u064a\u0627_\u064a\u062f\u0639\u0645_\u0627\u0644\u0627\u0631\u0647\u0627\u0628": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#Hindus_Under_Attack": {
+    "duration": 150,
+    "tweet_volume": 83389
+  },
+  "#\u0627\u0639\u064a\u062f\u0648\u0627_\u0645\u0631\u0634\u062f\u062a\u0646\u0627_\u0633\u0627\u0631\u0647_\u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#\u30a2\u30c3\u30d1\u30ec173": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Betmarlo \u00c7evrimsizBonus": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#PZvKK": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#ReadAcrossAmerica": {
+    "duration": 360,
+    "tweet_volume": 11181
+  },
+  "#SORTEORTXMSI": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#\u0627\u0646\u0642\u0630\u0648\u0627_\u0627\u0645_\u0646\u0627\u064a\u0641": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "Tar\u0131mAtamas\u0131nda ButonKapat": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Dr. Seuss": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#\u548c\u6cc9\u4e09\u6708\u8a95\u751f\u796d2020": {
+    "duration": 195,
+    "tweet_volume": 23657
+  },
+  "#BTSNo7GlobalArtist": {
+    "duration": 105,
+    "tweet_volume": 22699
+  },
+  "#\u67f4\u7530\u67da\u83dc\u751f\u8a95\u796d": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#\uc6b0\ub9ac\ub871_\uc0dd\uc77c\uc774\uc9c0\ub871": {
+    "duration": 135,
+    "tweet_volume": 41812
+  },
+  "#\u0647\u0628\u0647_\u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632_\u0628\u062c\u062f\u0647": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#PeteToBiden": {
+    "duration": 330,
+    "tweet_volume": 25048
+  },
+  "\u5d50\u3061\u3083\u3093": {
+    "duration": 90,
+    "tweet_volume": 19895
+  },
+  "#deshkegaddaroko": {
+    "duration": 165,
+    "tweet_volume": 22693
+  },
+  "#AdnanB\u00fcy\u00fckMa\u011fdurlar\u0131": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#\u0643\u0627\u0645\u064a\u0631\u0627\u062a_\u0644\u0644\u0627\u0637\u0641\u0627\u0644GProtact": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#\u4e2d\u5c45\u304f\u3093\u6c7a\u3081\u3066": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "\u69d9\u304f\u3093": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "\ubc1c\uc0ac\uc774\uc988": {
+    "duration": 150,
+    "tweet_volume": -1
+  },
+  "Artemis Fowl": {
+    "duration": 180,
+    "tweet_volume": -1
+  },
+  "#\u6708\u66dc\u304b\u3089\u591c\u3075\u304b\u3057": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#\u0634\u0643\u0631\u0627_\u0645\u062d\u0645\u062f_\u0627\u0644\u0637\u0627\u064a\u0631": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#Elite3": {
+    "duration": 345,
+    "tweet_volume": 38435
+  },
+  "Crivella": {
+    "duration": 255,
+    "tweet_volume": 19276
+  },
+  "#GiveInToSB19": {
+    "duration": 15,
+    "tweet_volume": 347212
+  },
+  "#\u0627\u0628\u0646_\u0639\u0648\u0646_\u0642\u0635\u0631_\u0627\u0644\u0645\u062f\u0631\u0639": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#robinhood": {
+    "duration": 405,
+    "tweet_volume": -1
+  },
+  "Polo": {
+    "duration": 165,
+    "tweet_volume": 47931
+  },
+  "#\ub098\uc758_oo\uc19c\uc528": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#btsno7globalartist": {
+    "duration": 15,
+    "tweet_volume": 19096
+  },
+  "#RobinHood": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#\u0645\u0643\u062a\u0628_\u0627\u0641\u0627\u0642_\u0627\u0644\u0627\u062e\u062a\u064a\u0627\u0631_\u0644\u0644\u0627\u0633\u062a\u0642\u062f\u0627\u0645": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#Ba\u011f\u0131\u015fYaz1987yeG\u00f6nder": {
+    "duration": 255,
+    "tweet_volume": -1
+  },
+  "#TexasIndependenceDay": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "AhmetiYa\u015fat T\u00fcrkiye": {
+    "duration": 465,
+    "tweet_volume": 168312
+  },
+  "#IndonesianIdol": {
+    "duration": 285,
+    "tweet_volume": 15624
+  },
+  "#HappyChorongDay": {
+    "duration": 15,
+    "tweet_volume": 44121
+  },
+  "#NoSir": {
+    "duration": 405,
+    "tweet_volume": 48347
+  },
+  "#ya\u015famhakk\u0131m": {
+    "duration": 225,
+    "tweet_volume": -1
+  },
+  "#\u0648\u0632\u064a\u0631_\u0627\u0644\u0635\u062d\u0647": {
+    "duration": 210,
+    "tweet_volume": 32177
+  },
+  "#\u0627\u0639\u0641\u0627\u0621_\u0631\u064a\u064a\u0633_\u0644\u062c\u0646\u0647_\u0627\u0644\u062d\u0643\u0627\u0645_\u0645\u0637\u0644\u0628": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#SorteazoPSPlus": {
+    "duration": 240,
+    "tweet_volume": -1
+  },
+  "#\u0645\u0633\u0627\u0628\u0642\u0647_\u0633\u0646\u0627\u0628_\u0648\u0627\u064a\u0644_\u0627\u0644\u0635\u0648\u064a\u0644\u062d\u064a": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#Balan\u00e7oGeralRJ": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#DrSeussDay": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#BursasporD\u00fc\u015fman\u0131Hakemler": {
+    "duration": 330,
+    "tweet_volume": 21716
+  },
+  "#MaineTurns25": {
+    "duration": 165,
+    "tweet_volume": 52686
+  },
+  "#Foto\u011fraf\u0131nBats\u0131n": {
+    "duration": 420,
+    "tweet_volume": 31887
+  },
+  "#\u0643\u0648\u0631\u0648\u0646\u0627_\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0647": {
+    "duration": 420,
+    "tweet_volume": 136701
+  },
+  "#KamiTidakTakutVirusCorona": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#ChangesTheMovement": {
+    "duration": 150,
+    "tweet_volume": -1
+  },
+  "#\u4e43\u6728\u5742\u3069\u3053\u3078": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Pudahuel": {
+    "duration": 180,
+    "tweet_volume": 19685
+  },
+  "#ReadAcrossAmericaDay": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#ModiJi": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#\u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646_\u0627\u0644\u0645\u0637\u064a\u0631\u064a": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#Veto52SimAberto": {
+    "duration": 315,
+    "tweet_volume": 61751
+  },
+  "#MondayMood": {
+    "duration": 90,
+    "tweet_volume": 10590
+  },
+  "Manchester by the Sea": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#\ubb34\uac1c\ub150_\uc5d8\ud504_\uc8fc\uc791_\uc0ac\uacfc\ud574": {
+    "duration": 165,
+    "tweet_volume": 20164
+  },
+  "#8M2020": {
+    "duration": 135,
+    "tweet_volume": 25258
+  },
+  "#FIFA_Gassama_unfair": {
+    "duration": 255,
+    "tweet_volume": 286989
+  },
+  "#NarendraModi": {
+    "duration": 30,
+    "tweet_volume": 19762
+  },
+  "#Kalbimdesin": {
+    "duration": 255,
+    "tweet_volume": 85032
+  },
+  "#supertuesday2020": {
+    "duration": 345,
+    "tweet_volume": 24275
+  },
+  "#\u83c5\u7530\u5c06\u6689ANN": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "James Lipton": {
+    "duration": 345,
+    "tweet_volume": 31647
+  },
+  "\ub9d0\uc2f8\uc6c0": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Judge Judy": {
+    "duration": 30,
+    "tweet_volume": 10489
+  },
+  "#ForaPyongAssediador": {
+    "duration": 195,
+    "tweet_volume": 16699
+  },
+  "#UrazKayg\u0131laro\u011flu": {
+    "duration": 180,
+    "tweet_volume": 41404
+  },
+  "#\u65e5\u5411\u574246\u30c9\u30ad\u30e5\u30e1\u30f3\u30bf\u30ea\u30fc\u6620\u753b": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#BorrowingSongs": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#\u0634\u0643\u0631\u0627_\u0627\u062d\u0645\u062f_\u0628\u0627\u0644\u063a\u0646\u064a\u0645": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Little Big": {
+    "duration": 210,
+    "tweet_volume": -1
+  },
+  "#Isibaya": {
+    "duration": 195,
+    "tweet_volume": -1
+  },
+  "#LateLateNiall": {
+    "duration": 150,
+    "tweet_volume": 11870
+  },
+  "#birlikteatlataca\u011f\u0131z": {
+    "duration": 315,
+    "tweet_volume": 59428
+  },
+  "#22Kad\u0131n": {
+    "duration": 240,
+    "tweet_volume": 11283
+  },
+  "Omelete": {
+    "duration": 180,
+    "tweet_volume": -1
+  },
+  "Sen. Amy Klobuchar": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#\u0633\u0646\u0627\u0628\u0627\u062a_\u062d\u0633\u0646_\u0628\u0646_\u0631\u0641\u062f\u0647": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#ChooseWarren": {
+    "duration": 255,
+    "tweet_volume": 40539
+  },
+  "Honey Pot": {
+    "duration": 45,
+    "tweet_volume": 21884
+  },
+  "#AmyKlobuchar": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#petetobiden": {
+    "duration": 15,
+    "tweet_volume": 21129
+  },
+  "#triviaplanetaria": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Pete and Amy": {
+    "duration": 270,
+    "tweet_volume": 19446
+  },
+  "#BTSWORLDDOMINATION": {
+    "duration": 270,
+    "tweet_volume": 307374
+  },
+  "#WarrenEndorseBernie": {
+    "duration": 270,
+    "tweet_volume": 43293
+  },
+  "#BBCYourQuestions": {
+    "duration": 165,
+    "tweet_volume": -1
+  },
+  "#\u062e\u0627\u0637\u0641\u0647\u0627\u0644\u062f\u0645\u0627\u0645": {
+    "duration": 75,
+    "tweet_volume": 15927
+  },
+  "#Seraqib": {
+    "duration": 150,
+    "tweet_volume": 15461
+  },
+  "#FACup": {
+    "duration": 105,
+    "tweet_volume": 12160
+  },
+  "Torreira": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "\u0415\u0432\u0440\u043e\u0432\u0438\u0434\u0435\u043d\u0438\u0435": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#CHROMATICA": {
+    "duration": 150,
+    "tweet_volume": 42850
+  },
+  "#PORARS": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#\u0627\u0644\u0628\u0627\u062d\u0647_\u064a\u0627\u0639\u0634\u0642\u0646\u0627_\u0627\u0644\u0627\u0648\u0644": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#\u0634\u0643\u0631\u0627_\u0633\u0646\u0627\u0628_\u0632\u062c\u0631\u0627\u0646": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "#VisibleWomen": {
+    "duration": 240,
+    "tweet_volume": 21088
+  },
+  "Mike Dean": {
+    "duration": 225,
+    "tweet_volume": 11924
+  },
+  "Manaf\u00e1": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "Sokratis": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "#SpringBreakInSixWords": {
+    "duration": 210,
+    "tweet_volume": -1
+  },
+  "#MariesAu1erRegard": {
+    "duration": 210,
+    "tweet_volume": -1
+  },
+  "#ReaTsotellaMonday": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "Portsmouth": {
+    "duration": 105,
+    "tweet_volume": 20167
+  },
+  "#onlyconnect": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#PFCRCL": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "#panicbuying": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "Jermaine Jenas": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#Chromatica": {
+    "duration": 90,
+    "tweet_volume": 37203
+  },
+  "#YasakElma": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#UniversityChallenge": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "#Greece_Turkey_Borders": {
+    "duration": 195,
+    "tweet_volume": 17495
+  },
+  "Reiss Nelson": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#hartaberfair": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#\u062a\u0635\u0648\u064a\u0631\u064a": {
+    "duration": 165,
+    "tweet_volume": 24653
+  },
+  "#\u0646\u0648\u064a\u0631_\u0627\u0644\u0633\u0628\u064a\u0639\u064a": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#LAmicaGeniale": {
+    "duration": 150,
+    "tweet_volume": 28714
+  },
+  "WITHOUT RADIOPLAY": {
+    "duration": 30,
+    "tweet_volume": 53441
+  },
+  "#ON4onHot100": {
+    "duration": 30,
+    "tweet_volume": 149639
+  },
+  "#ForaPyongGuilhermeSaiDepois": {
+    "duration": 15,
+    "tweet_volume": 11947
+  },
+  "#M\u00fcsl\u00fcmG\u00fcrses": {
+    "duration": 150,
+    "tweet_volume": -1
+  },
+  "Pablo Mari": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "Len\u00f9": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#nosir": {
+    "duration": 15,
+    "tweet_volume": 47543
+  },
+  "#SorryNotSorryEllen": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#QuartaRepubblica": {
+    "duration": 135,
+    "tweet_volume": -1
+  },
+  "#Hero100MForMX7": {
+    "duration": 120,
+    "tweet_volume": 63299
+  },
+  "Signorini": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "Buttigieg and Klobuchar": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#nffc": {
+    "duration": 120,
+    "tweet_volume": -1
+  },
+  "#\u0645\u0639\u0627\u0644\u064a_\u0627\u0644\u0634\u064a\u062e_\u0627\u062d\u0645\u062f_\u0627\u0644\u0645\u0646\u0635\u0648\u06311": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#AntesDeTenerSexoDeber\u00edamos": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "Moreirense": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "Pizzi": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#Liar": {
+    "duration": 60,
+    "tweet_volume": -1
+  },
+  "#MeResbala": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#conquis7": {
+    "duration": 105,
+    "tweet_volume": -1
+  },
+  "#jesuisunevictime": {
+    "duration": 75,
+    "tweet_volume": 18506
+  },
+  "#ThingsINeverTireOf": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "Baby Pluto": {
+    "duration": 90,
+    "tweet_volume": 27162
+  },
+  "#MaestrosDeLaCostura": {
+    "duration": 90,
+    "tweet_volume": -1
+  },
+  "\u3072\u306a\u796d\u308a": {
+    "duration": 75,
+    "tweet_volume": 166576
+  },
+  "#InsideNo9": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#MyTime84onHot100": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#Zhang": {
+    "duration": 75,
+    "tweet_volume": -1
+  },
+  "#BillboardRecalculate": {
+    "duration": 60,
+    "tweet_volume": 80470
+  },
+  "O Benfica": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#mariesau1erregard": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#porars": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "Benfica": {
+    "duration": 45,
+    "tweet_volume": 36197
+  },
+  "\u96db\u796d\u308a": {
+    "duration": 45,
+    "tweet_volume": 32833
+  },
+  "\u0639\u0648\u062f \u0627\u0644\u0628\u0637\u0644": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "\u3072\u306a\u307e\u3064\u308a": {
+    "duration": 45,
+    "tweet_volume": 32723
+  },
+  "#ILoveMe": {
+    "duration": 45,
+    "tweet_volume": 13615
+  },
+  "#AskInsideNo9": {
+    "duration": 45,
+    "tweet_volume": -1
+  },
+  "#\u062c\u0633\u0631_\u0627\u0644\u0645\u062d\u0628\u0647": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "\u9707\u5ea62": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#pyongmatou": {
+    "duration": 30,
+    "tweet_volume": -1
+  },
+  "#RechazoTuViolencia": {
+    "duration": 30,
+    "tweet_volume": 11098
+  },
+  "#safaerachallege": {
+    "duration": 15,
+    "tweet_volume": -1
+  },
+  "#MacriEsDeuda": {
+    "duration": 15,
+    "tweet_volume": -1
+  }
+}
