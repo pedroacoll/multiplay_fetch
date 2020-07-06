@@ -1,0 +1,14 @@
+OPCIONES DE GRAFICAS;;;;
+;Observaciones;;;
+Por país radialmente y capas superpuestas por indicador;nos da forma ameboide (no circular);;;
+;la mayoría de los datasets están geolocalizados;;;
+;la información de los países no es de por si relevante;;;
+;Mantenemos las layers;;;
+;;;;
+Radialmente por indicador;"nos cargamos las layers y no se ""acumula"" la closeness";;;
+;es más aséptico al no dar geo;;;
+;;;;
+;;;;
+;;;;
+Por indicador con capas superpuestas;nos da un círculo perfecto;;;
+;Mantenemos las layers;;;
